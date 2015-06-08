@@ -1,0 +1,9 @@
+Building TransformersCoin
+
+See doc/readme-qt.rst for instructions on building TransformersCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TransformersCoin.
+
+See doc/build-*.txt for instructions on building TransformersCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TransformersCoin.

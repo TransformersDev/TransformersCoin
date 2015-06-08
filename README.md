@@ -26,8 +26,6 @@ Block 10-15: 1000000 TRANSF  (1000000 * 5 = 5.000.000 - premine adv)
 
 Block 15-200: 0 TRANSF
 
-Block 15-200: 0 TRANSF
-
 Block 200-20200: 500 (20000 * 500 = 10.000.000 - POW) 
 
 Proof of Work rejected after 20200 block.
